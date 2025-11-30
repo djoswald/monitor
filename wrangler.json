@@ -1,0 +1,14 @@
+{
+  "name": "monitor",
+  "main": "index.html",
+  "assets": {
+    "directory": "./",
+    "exclude": [
+      ".git/**",
+      ".github/**",
+      "wrangler.toml",
+      "node_modules/**"
+    ]
+  },
+  "compatibility_date": "2025-11-30"
+}
